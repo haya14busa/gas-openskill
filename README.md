@@ -1,5 +1,8 @@
 # OpenSkill for Google Apps Script
 
+This project is Google Apps Script library which export
+[openskill.js](https://github.com/philihp/openskill.js) functionalities.
+
 ## Adding the library to your project
 
 Add the OpenSkill library with the below script ID and `OpenSkill` as identifier.
